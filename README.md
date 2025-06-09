@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm [Your Name] 👋</h1>
+<h1 align="center">Hello, I'm Magdiel Cardoso 👋</h1>
 <p align="center">
   <strong>Web Developer & Digital Solutions Creator.</strong>
 </p>
